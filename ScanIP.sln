@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScanIP", "ScanIP\ScanIP.csproj", "{16423CDE-015E-42C0-AC95-2B53E22A643F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16423CDE-015E-42C0-AC95-2B53E22A643F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16423CDE-015E-42C0-AC95-2B53E22A643F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16423CDE-015E-42C0-AC95-2B53E22A643F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16423CDE-015E-42C0-AC95-2B53E22A643F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D8B73CF-7BB9-4D9A-8906-674B75EDBABC}
+	EndGlobalSection
+EndGlobal
